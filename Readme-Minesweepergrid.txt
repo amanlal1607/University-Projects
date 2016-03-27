@@ -1,5 +1,9 @@
-----------------------------Solution for Minesweeper Challenge - IR APPLICATION - AMAN LAL - MASTER OF IT -UNIMELB -----------------------------------
+----------------------------Solution for Minesweeper Challenge - AMAN LAL - MASTER OF IT -UNIMELB -----------------------------------
 
+Problem Statement:
+
+Please refer to Minsweeper-problem.pdf
+______________________________________________________________________________________________________________________________________
 To run the application you require:
 1.JRE 6.0 or above
 2.JVM
